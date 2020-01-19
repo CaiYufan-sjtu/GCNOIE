@@ -1,0 +1,2 @@
+from gcn.predictors.predictor import GCN_Predictor
+from gcn.predictors.open_information_extraction import OpenIePredictor
